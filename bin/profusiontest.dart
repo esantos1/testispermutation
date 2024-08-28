@@ -17,5 +17,5 @@ void main(List<String> arguments) {
   }
 
   print(
-      '\nBaseado em https://stackoverflow.com/questions/42091542/check-if-two-strings-are-permutation-of-each-other');
+      '\nFonte: https://stackoverflow.com/questions/42091542/check-if-two-strings-are-permutation-of-each-other');
 }
